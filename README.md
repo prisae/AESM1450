@@ -1,7 +1,7 @@
 # AESM1450 -- Geophysical Prospecting
 
-> **Diffusive Fields: Land and Marine CSEM**
-> TU Delft -- MSc program Geo-Energy Engineering
+> **Diffusive Fields: Land and Marine CSEM**  
+> TU Delft -- MSc program Geo-Energy Engineering  
 > Notebooks and info on: [github.com/prisae/aesm1450](https://github.com/prisae/aesm1450)
 
 In this practical you are going to learn how to model, invert, and interpret
